@@ -23,7 +23,7 @@ header{
 }
 
 .debug{
-    border: 1px dashed black;
+    /* border: 1px dashed black; */
 }
 
 .logo{
@@ -45,9 +45,12 @@ header{
 }
 
 .pink{
-    background-color: rgb(219, 123, 223);
+    /* debug */
+    /* background-color: rgb(219, 123, 223); */
     width: 40%;
     height: 300px;
+    color: white;
+    text-align: center;
 }
 
 
