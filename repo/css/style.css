@@ -71,6 +71,7 @@ h1{
     font-size: 22px;
     padding-top: 40px;
     line-height: 1.5em;
+    color: white;
 }
 
 .white{
@@ -209,6 +210,7 @@ p{
 
 }
 
+
 .box-green{
     width: 50%;
     height: 700px;
@@ -231,6 +233,9 @@ p{
 .Mac{
     margin-top: 20px;
     margin-bottom: 100px;
+    color: white;
+    background-color: #9db5ed;
+    font-size: 20px;
 }
 
 
@@ -242,8 +247,11 @@ p{
     flex-direction: row;
     justify-content: center;
     padding-top: 10px;
-    padding-bottom: 40px;
-   
+    padding-bottom: 100px;
+    gap: 40px;
+    
+    
+    
 }
 
 
@@ -255,7 +263,42 @@ p{
 .column-8{
     width: 8%;
     height: 350px;
+ 
+    
 }
+
+
+
+ .ul-style{
+    list-style-type: none;
+    line-height: 2em;
+    color: white;
+    font-weight: 600;
+    margin-top: 50px;
+} 
+
+
+.viola{
+    color: #9db5ed;;
+}
+
+#posto{
+    color: #9db5ed;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: 600;  
+}
+
+#flag{
+    width: 10%;
+}
+
+span{
+    vertical-align: middle;
+    color: white;
+}
+
  /* footer */
 footer{
     background-color: rgb(42, 42, 42);
